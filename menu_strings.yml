@@ -1,0 +1,12 @@
+RULES: 
+      0: "Scissors cuts paper, paper covers rock, rock crushes lizard,\n"
+      1: "lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard,\n"
+      2: "lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it\n"
+      3: "always has, rock crushes scissors."
+
+HELP:
+    0: "*Need help with rules?\n\t-Visit: samkass.com/theories/RPSSL.html (non-affiliated) for more indepth rules\n"
+    1: "*Does your screen look weird?\n\t-Try resizing your window so that all of the text fits!\n"
+    2: "*What are the abreviations?\n\t-The first letter of your option with an exception for 'sc' for scissors and 'sp' for spock!\n"
+    3: "*Can I exit midgame?\n\t-Sure can, just type 'exit' or 'e'\n"
+    4: "*I think the computer cheated?\n\t-You can read a move transcript by typing in 'history' or 'h'"
